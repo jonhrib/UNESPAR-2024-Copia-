@@ -1,10 +1,10 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GuilhermeNakahata/UNESPAR-2023?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/GuilhermeNakahata/UNESPAR-2024?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GuilhermeNakahata/UNESPAR-2023">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/GuilhermeNakahata/UNESPAR-2024">
 	
   <a href="https://github.com/GuilhermeNakahata/BonsaiStyleClassification/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GuilhermeNakahata/UNESPAR-2023">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/GuilhermeNakahata/UNESPAR-2024">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -22,7 +22,7 @@ Os slides utiizados nas aulas podem ser visto aqui.
 
 ## Cronograma das Disciplinas 📝
 
-O cronograma das disciplinas pode ser visto aqui [CRONOGRAMA](./Aulas-2023.pdf).
+O cronograma das disciplinas pode ser visto aqui [CRONOGRAMA](./Aulas-2024.pdf).
 	
 ---
 	
