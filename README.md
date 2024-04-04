@@ -18,15 +18,15 @@
 
 Os slides utiizados nas aulas podem ser visto aqui:
 
-[Arquitetura e Organização de Computadores](./Arquitetura e Organizacao de Computadores)
+[AC](./Arquitetura e Organizacao de Computadores)
 
-[Linguagens Formais, Automâtos e Computabilidade](./Linguagens Formais Automatos e Computabilidade).
+[LFA](./Linguagens Formais Automatos e Computabilidade).
 
-[Teoria da Computação](./Teoria da Computacao).
+[TC](./Teoria da Computacao).
 
-[Inteligência Artificial](./Inteligencia Artificial).
+[IA](./Inteligencia Artificial).
 
-[Computação Gráfica](./Computacao Grafica).
+[CG](./Computacao Grafica).
 
 ---
 
