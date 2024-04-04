@@ -16,17 +16,7 @@
 
 ## Slides 📝
 
-Os slides utiizados nas aulas podem ser visto aqui:
-
-[Arquitetura e Organização de Computadores](./Arquitetura e Organizacao de Computadores)
-
-[Linguagens Formais, Automâtos e Computabilidade](./Linguagens Formais Automatos e Computabilidade).
-
-[Teoria da Computação](./Teoria da Computacao).
-
-[Inteligência Artificial](./Inteligencia Artificial).
-
-[Computação Gráfica](./Computacao Grafica).
+Os slides utiizados nas aulas podem ser visto nesse repositório.
 
 ---
 
