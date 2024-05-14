@@ -17,12 +17,6 @@
 ## Slides 📝
 
 Os slides utiizados nas aulas podem ser visto nesse repositório.
-
----
-
-## Cronograma das Disciplinas 📝
-
-O cronograma pode ser visualizado [aqui](./Cronograma.pdf).
 	
 ---
 	
