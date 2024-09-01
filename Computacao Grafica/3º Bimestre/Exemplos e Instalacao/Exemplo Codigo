@@ -1,0 +1,24 @@
+import org.opencv.core.Core;
+import org.opencv.core.Mat;
+import org.opencv.imgcodecs.Imgcodecs;
+
+public class Main {
+	public static void main(String[] args) {
+		System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
+		Mat ImagemOriginal = Imgcodecs.imread("C:/Users/Guilherme H. Souza/Desktop/img1.png");
+		Mat ImagemZoomInQuadrado = new Mat(100,200, ImagemOriginal.type());
+		
+		for (int i = 0; i < ImagemOriginal.rows(); i++) {
+			for (int j = 0; j < imagem.cols(); j++) {
+				double[] PegarCor = ImagemOriginal.get(i, j);
+				double[] preto = { 255, 255, 255 };
+				ImagemOriginal.put(i, j, preto);
+			}
+		}	
+		Imgcodecs.imwrite("C:/Users/Guilherme H. Souza/Desktop/img1.png", ImagemOriginal);
+		
+	}
+
+
+	
+}
